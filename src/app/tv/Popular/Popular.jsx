@@ -8,7 +8,7 @@ import {
   CardContent,
   Box,
 } from "@mui/material";
-import GlobalApi from "../../Services/GlobalApi"; 
+import GlobalApi from "../../services/GlobalApi"; 
 
 export default function Popular({ series }) {
   return (
